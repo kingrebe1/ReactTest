@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.mainNav {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 10%;
+}
+
+a {
+  font-family: futura;
+  color: white;
+  padding-right: 2%;
+  padding-left: 2%;
+}
+
+a:hover {
+  color: deepskyblue;
+}
+
+.logo {
+  width: 4%;
+}
